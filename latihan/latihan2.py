@@ -1,0 +1,8 @@
+print("PSEUDOCODE PROGRAM REKAP NILAI")
+print("1. Mulai")
+print("2. Masukkan nama siswa dan nilai")
+print("3. Periksa apakah nilai berada pada rentang 0-100")
+print("4. Hitung rata-rata nilai")
+print("5. Tentukan nilai tertinggi dan terendah")
+print("6. Tampilkan hasil rekap")
+print("7. Selesai")
